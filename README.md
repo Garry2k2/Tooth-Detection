@@ -50,7 +50,5 @@ The goal is to detect and number teeth in dental panoramic images using the **FD
 - torch==2.2.2  
 - opencv-python, matplotlib, pandas  
 
----
 
-## 📝 Acknowledgement
-Some code snippets (esp. post-processing pipeline) were implemented with the help of **ChatGPT** and adapted to this project.  
+
