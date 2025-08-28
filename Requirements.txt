@@ -1,0 +1,10 @@
+ultralytics==8.2.103
+torch>=2.2.0
+opencv-python
+matplotlib
+pandas
+numpy
+scikit-learn
+python-docx
+seaborn
+pyyaml
